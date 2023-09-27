@@ -1,0 +1,44 @@
+body{
+    background: rgb(151, 94, 103);
+    font: normal 15pt Arial;
+}
+
+header{
+    color: #fff;
+    text-align: center;
+}
+
+section{
+    background: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px #00000049;
+}
+
+input[type="button"]{
+    cursor: pointer;
+    background: rgb(151, 94, 103);
+    color: #fff;
+    border-radius: 10%;
+    height: 25px;
+    border: 1px solid rgb(151, 94, 103);
+}
+
+input[type="button"]:hover{
+    background: #fff;
+    color: #323232;
+}
+
+#foto{
+    max-width: 300px;
+    border-radius: 50%;
+    padding-top: 15px;
+}
+
+footer{
+    color: #fff;
+    font-style: italic;
+    text-align: center;
+}
