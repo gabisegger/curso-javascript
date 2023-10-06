@@ -22,3 +22,7 @@ footer{
     font-style: italic;
     text-align: center;
 }
+
+input[type='button']{
+    cursor: pointer;
+}
